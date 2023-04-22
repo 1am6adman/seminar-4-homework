@@ -1,4 +1,4 @@
-﻿// Функция подсчета цифр 
+﻿// Функция подсчета
 int NumLen(int a)
 {
     int index = 0;
@@ -10,7 +10,7 @@ int NumLen(int a)
     return index;
 }
 
-// Функция вывода суммы цифр 
+// Функция вывода суммы
 void SumNum(int n, int len)
 {
     int sum = 0;
